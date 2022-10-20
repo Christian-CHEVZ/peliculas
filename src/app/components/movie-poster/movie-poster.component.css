@@ -1,0 +1,11 @@
+.card-align{
+    display: inline-flex;
+    width: 19.5rem;
+    margin-left: .5rem;
+}
+
+h3{
+    padding-left: 10px;
+    font-weight: 100;
+    color: black;
+}
